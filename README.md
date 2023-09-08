@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Designer / Developer
 --------------------
 
-Multidisciplinary Designer / Full stack Web Developer based in Addis Ababa, Ethiopia. Love to do web and design things. Trying my best while doing so , and helping brands, creatives, and enterprises gain competitive advantage through, various models of design and strategy. Reach out for any collaborations or commissioned projects
+Graphic Designer / Frontend Developer based in Addis Ababa, Ethiopia. Love to do web and design things. Trying my best while doing so , and helping brands, creatives, and enterprises gain competitive advantage through, various models of design and strategy. Reach out for any collaborations or commissioned projects
 
 * 🌍  I'm based in Addis Ababa, Ethiopia / Remote UTC+3
 * 🖥️  See my portfolio at [Website](http://www.yonatanefrem.com)
